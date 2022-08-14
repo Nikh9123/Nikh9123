@@ -31,4 +31,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikh9123&show_icons=true&locale=en&layout=compact" alt="nikh9123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikh9123&show_icons=true&locale=en" alt="nikh9123" /></p>
+## Github Stats 📈
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikh9123&theme=radical" alt="rudy45kc"/></p>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Nikh9123&&show_icons=true&count_private=true&theme=radical&hide_border=true&custom_title=Nikhil's%20Github%20Stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikh9123&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
