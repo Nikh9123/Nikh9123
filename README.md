@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/nikhilsatyam2" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilsatyam2?logo=twitter&style=for-the-badge" alt="nikhilsatyam2" /></a> </p>
 
-- 🔭 I’m currently Learning **NodeJs**
+- 🔭 I’m currently Learning **full stack development**
 
-- 🌱 I’m currently learning **Backend developing**
+- 🌱 I’m intrested in **cloud computing**
 
 - 💬 Ask me about **JavsScript, C++ and C**
 
