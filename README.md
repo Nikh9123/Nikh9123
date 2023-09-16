@@ -1,6 +1,5 @@
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fblgdk68fzxeda9nzql05wsz31j7f4ajlrxtjyqy&amp;rid=giphy.gif&amp;ct=g" alt="Coding Work From Home GIF by Domme Space" style="width: 1200px; height: 600px; opacity: 0; left: -125px; top: 0px; center ">
 <h1 align="center"><Namaste World 👋!, I'm Nikhil satyam</h1>
-<h3 align="center">Hi! I am a 2nd year B.Tech CSE student and a passionate programmer.</h3>
+<h3 align="center">Hi! I am a 3rd year B.Tech CSE student and a passionate programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikh9123&label=Profile%20views&color=0e75b6&style=flat" alt="nikh9123" /> </p>
 
