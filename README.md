@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/nikhilsatyam2" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilsatyam2?logo=twitter&style=for-the-badge" alt="nikhilsatyam2" /></a> </p>
 
-- 🔭 I’m currently Learning **full stack development**
+- 🔭 I’m currently Learning **DSA and Backend Engineering**
 
-- 🌱 I’m intrested in **cloud computing**
+- 🌱 My interest is in **backend as well as in the core of NodeJs**
 
-- 💬 Ask me about **JavsScript, C++ and C**
+- 💬 Ask me about **JavsScript, C++ and Node JS**
 
 - 📫 How to reach me **satyamnikhil1523@gmail.com**
 
