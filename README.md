@@ -44,4 +44,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikh9123&show_icons=true&locale=en" alt="nikh9123" /></p>
 ## Github Stats 📈
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Nikh9123&&show_icons=true&count_private=true&theme=radical&hide_border=true&custom_title=Nikhil's%20Github%20Stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikh9123&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
