@@ -13,8 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikh9123&label=Profile%20views&color=0e75b6&style=flat" alt="nikh9123" /> </p>
 <p align="left"> <a href="https://twitter.com/nikhilsatyam2" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilsatyam2?logo=twitter&style=for-the-badge" alt="nikhilsatyam2" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/nikhil-satyam-86a530227/" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilsatyam2?logo=linkedin&style=for-the-badge" alt="nikhilsatyam" /></a> </p>
+
 </p>
 
 ## Technologies and Tools 👨‍💻
