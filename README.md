@@ -1,5 +1,5 @@
 <h1 align="center">Namaste World 👋</h1>
-<h3 align="center">👋 Hello! I'm Nikhil Satyam, a dedicated and ambitious 3rd-year B.Tech Computer Science Engineering student with a profound passion for programming and technology. I thrive on challenging projects and enjoy exploring new avenues in the vast world of computer science.</h3>
+<h3 align="center">👋 Hello! I'm Nikhil Satyam, a dedicated and ambitious 3rd-year B.Tech Computer Science Engineering student with a profound passion for programming and technology. I am deeply interested in backend engineering, cloud computing, and computer architecture.</h3>
 
 - 🔭 I’m currently Learning **DSA and Backend Engineering**
 
